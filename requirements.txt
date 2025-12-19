@@ -1,0 +1,6 @@
+gradio==3.50.2
+pytesseract
+pdf2image
+Pillow
+transformers
+torch
